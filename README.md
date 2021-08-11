@@ -1,4 +1,4 @@
-<img src="/images/undeciphered7.png" alt = "a png image with a message: chaos is data yet undeciphered" width="100%">
+<img src="/images/undeciphered8.png" alt = "a png image with a message: chaos is data yet undeciphered" width="100%">
 
 <!--
 <h2 align='center'> Hi there... </h2>
