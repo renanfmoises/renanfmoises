@@ -1,6 +1,8 @@
-### Hi there 👋
 
-<img 
+
+<img src="/images/undeciphered.png" alt = "a png image with a message: chaos is data yet undeciphered" width="100%">
+
+### Hi there 👋
 
 <!--
 **renanfmoises/renanfmoises** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
